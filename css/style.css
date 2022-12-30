@@ -8,6 +8,12 @@ body {
     line-height: 2;
 }
 
+header {
+    width: 960px;
+    height: 100px;
+    margin: 0 auto;
+}
+
 p,
 h1,
 h2,
@@ -38,4 +44,12 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
+}
+
+.logo {
+    float: left;
+}
+
+.global-nav {
+    float: right;
 }
