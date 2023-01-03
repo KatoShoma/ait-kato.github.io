@@ -92,3 +92,12 @@ footer {
 footer small {
     font-size: 12px;
 }
+
+#about {
+    background-image: url(../images/wood.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    /*画像の表示位置は固定*/
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
