@@ -114,3 +114,8 @@ footer small {
     width: 940px;
     margin: 0 auto;
 }
+
+.icon:before {
+    content: "";
+    padding-right: 10px;
+}
