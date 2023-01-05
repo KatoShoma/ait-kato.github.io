@@ -130,6 +130,12 @@ footer small {
     border: 1px solid #cccccc;
 }
 
+#about .career td {
+    width: 660px;
+    padding: 12px 0 12px 40px;
+    border: 1px solid #cccccc;
+}
+
 .main-center {
     width: 940px;
     margin: 0 auto;
@@ -149,4 +155,9 @@ footer small {
 
 section {
     margin-bottom: 40px;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
 }
