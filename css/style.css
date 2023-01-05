@@ -110,6 +110,11 @@ footer small {
     background-size: 100% auto;
 }
 
+#about .profile-txt {
+    width: 540px;
+    float: left;
+}
+
 .main-center {
     width: 940px;
     margin: 0 auto;
