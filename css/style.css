@@ -123,6 +123,13 @@ footer small {
     float: right;
 }
 
+#about .career th {
+    width: 240px;
+    background-color: #f0f0f0;
+    padding: 12px 0;
+    border: 1px solid #cccccc;
+}
+
 .main-center {
     width: 940px;
     margin: 0 auto;
