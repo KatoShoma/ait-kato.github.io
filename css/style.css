@@ -115,6 +115,14 @@ footer small {
     float: left;
 }
 
+#about .profile-txt span {
+    font-weight: bold;
+}
+
+#about .profile-image {
+    float: right;
+}
+
 .main-center {
     width: 940px;
     margin: 0 auto;
